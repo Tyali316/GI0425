@@ -3,6 +3,8 @@
 let min = myFunction(1, 5);
 
 function myFunction(x, y){
-    return x * y;
+    return x - y;
 }
+ console.log(min);
+
 
